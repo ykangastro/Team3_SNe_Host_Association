@@ -1,3 +1,8 @@
 # Preparation before the workshop
 
-## Set up for ALeRCE
+## Rubin Alert Brokers
+### Set up for ALeRCE
+
+### Setup for Lasair
+
+'https://docs.lsdb.io/en/latest/tutorials/rubin_dp2_release.html 
