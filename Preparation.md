@@ -1,7 +1,10 @@
 # Preparation before the workshop
 This is the list of useful tools we plan to use for our team hack sprint. <br>
 The ways to install each package/pipeline are listed on the link to 'How to Install'. <br> 
-The client or package with 🚨 is Essential to install, ⭐ is Recommended to set up, and 💡 is Optional, but useful. 
+The client or package with
+- 🚨: essential to install
+- ⭐: recommended to set up
+- 💡: optional, but useful. 
 
 ## Rubin Alert Brokers 
 ### ALeRCE 🚨 
@@ -27,7 +30,10 @@ The client or package with 🚨 is Essential to install, ⭐ is Recommended to s
 ### LightCurveLynx ⭐
 - Summary: A fast and nimble package for realistic time-domain light curve simulations
 - Website: https://lightcurvelynx.readthedocs.io/en/latest/#
-- 
+- How to set up: https://lightcurvelynx.readthedocs.io/en/latest/index.html#installation
+- Tutorials: https://lightcurvelynx.readthedocs.io/en/latest/notebooks/introduction.html
+  
+  
 ### LSDB 🚨: 
 - Summary: A Python tool for scalable analysis of large catalogs (e.g., analyzing, querying, and/or crossmatching $\sim10^9$ sources)
 - Information: https://docs.lsdb.io/en/latest/tutorials/rubin_dp2_release.html
@@ -40,17 +46,20 @@ The client or package with 🚨 is Essential to install, ⭐ is Recommended to s
 - Summary:
 - Information: 
 - How to Install:
-- Tutorials: 
+- Tutorials:
+- 
 ### Pröst 
 - Summary:
 - Information: 
 - How to Install:
-- Tutorials: 
+- Tutorials:
+- 
 ### Blast (optional) 
 - Summary:
 - Information: 
 - How to Install:
-- Tutorials: 
+- Tutorials:
+- 
 ### Frankenblast (optional)
 - Summary:
 - Information: 
