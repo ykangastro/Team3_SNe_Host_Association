@@ -1,3 +1,9 @@
+# Readme
+
+## To-do list
+- Please provide me with your GitHub user ID/email to add you as a collaborator.
+- 
+
 ## Basic Git Commands
 
 ### 1. Clone the repository
