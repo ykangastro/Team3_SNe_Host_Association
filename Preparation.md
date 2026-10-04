@@ -1,11 +1,15 @@
 # Preparation before the workshop
-This is the list of useful tools we plan to use for our team hack. 
-
+This is the list of useful tools we plan to use for our team hack sprint. <br>
+The ways to install each package/pipeline are listed on the link to 'How to Install'. <br> 
 
 ## Rubin Alert Brokers
-### Set up for ALeRCE
+### ALeRCE
+- Summary: a Chilean-led Community Broker for the Vera C. Rubin Observatory and its Legacy Survey of Space and Time (LSST).
+- Website: https://science.alerce.online/
+- How to install client: https://alerce.readthedocs.io/en/latest/
+- Tutorials: https://github.com/alercebroker/usecases/tree/master/notebooks/LSST
 
-### Setup for Lasair
+### Lasair
 
 ## Rubin Data & LINCC Tools
 ### LightCurveLynx
