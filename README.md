@@ -1,4 +1,17 @@
-# Readme
+# Matching host galaxies of SNe Ia using LSST alerts and archival catalog data
+
+Welcome to the Repository of Team 3 at Open Tools, Open Sky: Doing LSST Science with Public Rubin Data & LINCC Frameworks Worshop
+- Workshop Homepage: https://plazasmalagon.com/lsst-science-public-rubin-data-products-hackathon-UdeA-2026
+
+
+## Team Member 
+Yijung Kang (SLAC/Rubin Observatory)
+Luz Ángela García (Universidad ECCI)
+Juan Camilo Sánchez (Universidad Nacional de Colombia)
+Alexandra Serrano Mendoza (Universidad Industrial de Santander)
+Holman Daniel Quintero Salazar (Universidad de Guanajuato)
+Simon Rodriguez  (Universidad de Antioquia)
+
 
 ## To-do list
 - Please provide me with your GitHub user ID/email to add you as a collaborator.
