@@ -1,0 +1,28 @@
+[project]
+name = "team3-sne-host-matching"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "alerce>=2.3.1",
+    "astro-delight>=0.1.0",
+    "astro-prost>=1.2.13",
+    "astropy>=8.0.1",
+    "lasair>=0.1.4",
+    "lsdb>=0.11.0",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.3",
+    "pandas>=3.0.6",
+    "pycurl>=7.48.0",
+    "scipy>=1.18.1",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.4.0",
+    "ipywidgets>=8.1.9",
+    "jupyterlab>=4.6.4",
+]
+extras = [
+    "fink-client>=12.2.0",
+    "lightcurvelynx>=0.6.3",
+]
