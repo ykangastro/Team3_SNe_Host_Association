@@ -2,53 +2,53 @@
 This is the list of useful tools we plan to use for our team hack sprint. <br>
 The ways to install each package/pipeline are listed on the link to 'How to Install'. <br> 
 The client or package with
-- 🚨: essential to install
-- ⭐: recommended to set up
-- 💡: optional, but useful. 
+- **Essential** 🚨: essential to install
+- **Recommended** ⭐: recommended to set up
+- **Optional**💡: optional, but useful. 
 
 ## Rubin Alert Brokers 
 ### ALeRCE 🚨 
-- Summary: a Chilean-led Community Broker for the Vera C. Rubin Observatory and its Legacy Survey of Space and Time (LSST).
-- Website: https://science.alerce.online/
-- How to set up client: https://alerce.readthedocs.io/en/latest/
-- Tutorials: https://github.com/alercebroker/usecases/tree/master/notebooks/LSST
+- **Summary**: a Chilean-led Community Broker for the Vera C. Rubin Observatory and its Legacy Survey of Space and Time (LSST).
+- **Website**: https://science.alerce.online/
+- **How to Set up Client**: https://alerce.readthedocs.io/en/latest/
+- **Tutorials**: https://github.com/alercebroker/usecases/tree/master/notebooks/LSST
   
 ### Lasair 🚨 
-- Summary: a UK Alert Stream Broker to serve transient alerts from the Rubin Legacy Survey of Space and Time (LSST) to the astronomical community. 
-- Information: https://lasair.lsst.ac.uk/
-- How to set up client: https://lasair-lsst.readthedocs.io/en/main/core_functions/client.html
-- Tutorials: https://lasair-lsst.readthedocs.io/en/main/core_functions/python-notebooks.html
+- **Summary**: a UK Alert Stream Broker to serve transient alerts from the Rubin Legacy Survey of Space and Time (LSST) to the astronomical community. 
+- **Information**: https://lasair.lsst.ac.uk/
+- **How to set up client**: https://lasair-lsst.readthedocs.io/en/main/core_functions/client.html
+- **Tutorials**: https://lasair-lsst.readthedocs.io/en/main/core_functions/python-notebooks.html
   
 ### Fink 💡
-- Summary: an astronomical alert broker that serves as an intermediary between alert issuers and the scientific community analyzing the alert data.
-- Description: Among its various functions, Fink collects and stores alert data, enriches it with information from other surveys and catalogs, as well as user-defined enhancements like machine-learning classification scores. It also redistributes the most promising events for further analysis, including follow-up observations.
-- Information: https://fink-broker.org/
-- How to set up client: https://doc.ztf.fink-broker.org/services/fink_client/
-- Tutorials: https://github.com/astrolabsoftware/fink-tutorials
+- **Summary**: an astronomical alert broker that serves as an intermediary between alert issuers and the scientific community analyzing the alert data.
+- **Description**: Among its various functions, Fink collects and stores alert data, enriches it with information from other surveys and catalogs, as well as user-defined enhancements like machine-learning classification scores. It also redistributes the most promising events for further analysis, including follow-up observations.
+- **Information**: https://fink-broker.org/
+- **How to set up client**: https://doc.ztf.fink-broker.org/services/fink_client/
+- **Tutorials**: https://github.com/astrolabsoftware/fink-tutorials
 
 ## Rubin Data & LINCC Tools
 ### LightCurveLynx ⭐
-- Summary: A fast and nimble package for realistic time-domain light curve simulations
-- Website: https://lightcurvelynx.readthedocs.io/en/latest/#
-- How to set up: https://lightcurvelynx.readthedocs.io/en/latest/index.html#installation
-- Tutorials: https://lightcurvelynx.readthedocs.io/en/latest/notebooks/introduction.html
+- **Summary**: A fast and nimble package for realistic time-domain light curve simulations
+- **Website**: https://lightcurvelynx.readthedocs.io/en/latest/#
+- **How to set up**: https://lightcurvelynx.readthedocs.io/en/latest/index.html#installation
+- **Tutorials**: https://lightcurvelynx.readthedocs.io/en/latest/notebooks/introduction.html
   
   
 ### LSDB 🚨: 
-- Summary: A Python tool for scalable analysis of large catalogs (e.g., analyzing, querying, and/or crossmatching $\sim10^9$ sources)
-- Information: https://docs.lsdb.io/en/latest/tutorials/rubin_dp2_release.html
-- How to Install: https://docs.lsdb.io/en/latest/getting-started.html
-- Tutorials: https://docs.lsdb.io/en/latest/tutorials.html
+- **Summary**: A Python tool for scalable analysis of large catalogs (e.g., analyzing, querying, and/or crossmatching $\sim10^9$ sources)
+- **Information**: https://docs.lsdb.io/en/latest/tutorials/rubin_dp2_release.html
+- **How to Install**: https://docs.lsdb.io/en/latest/getting-started.html
+- **Tutorials**: https://docs.lsdb.io/en/latest/tutorials.html
   
 
 ## Host Galaxy Association & Characterization
 Let's try to use at least one of the packages listed below) 
 
 ### DeLight 🚨
-- Summary: The Deep Learning Identification of Galaxy Hosts in Transients. A library created by the ALeRCE broker to automatically identify host galaxies of transient candidates using multi-resolution images and a convolutional neural network
-- Information: Förster et al. 2022 ([ads](https://ui.adsabs.harvard.edu/abs/2022AJ....164..195F/abstract))
-- How to Install: https://pypi.org/project/astro-delight/
-- Tutorials: [Jupyter notebook](https://nbviewer.org/github/fforster/DELIGHT/blob/main/notebook/Delight_example_notebook.ipynb)  or https://colab.research.google.com/github/fforster/DELIGHT/blob/main/notebook/Delight_example_notebook.ipynb
+- **Summary**: The Deep Learning Identification of Galaxy Hosts in Transients. A library created by the ALeRCE broker to automatically identify host galaxies of transient candidates using multi-resolution images and a convolutional neural network
+- **Information**: Förster et al. 2022 ([ads](https://ui.adsabs.harvard.edu/abs/2022AJ....164..195F/abstract))
+- **How to Install: https://pypi.org/project/astro-delight/
+- **Tutorials**: [Jupyter notebook](https://nbviewer.org/github/fforster/DELIGHT/blob/main/notebook/Delight_example_notebook.ipynb)  or https://colab.research.google.com/github/fforster/DELIGHT/blob/main/notebook/Delight_example_notebook.ipynb
 - 
 ### Pröst 🚨
 - Summary: A code for host-galaxy identification of extragalactic transients. It’s fast, probabilistic, and highly customizable.
@@ -57,25 +57,28 @@ Let's try to use at least one of the packages listed below)
 - Tutorials: https://astro-prost.readthedocs.io/en/latest/notebooks/associate.html
   
 ### Blast (optional) ⭐
-- Summary: The host galaxies of astrophysical transients play a key role in our understanding of their progenitor systems and the use of Type Ia supernovae as standardizable candles for cosmology. 
-- Information: [Homepage] (https://blast.scimma.org/)
-- How to run it locally: https://blast.readthedocs.io/en/latest/developer_guide/dev_running_blast.html
+- **Summary**: The host galaxies of astrophysical transients play a key role in our understanding of their progenitor systems and the use of Type Ia supernovae as standardizable candles for cosmology. 
+- **Information**: [Homepage] (https://blast.scimma.org/)
+- **How to run it locally**: https://blast.readthedocs.io/en/latest/developer_guide/dev_running_blast.html
  
 ### Frankenblast (optional) ⭐
 ⚠️ You might need to download the SBI++ trained models (2.5 G) for host SED fitting in advance [Zenodo](https://zenodo.org/records/16953206)
-- Summary: A customized and improved version of the Blast web application. FrankenBlast associates transients to their host galaxies, performs host photometry, and runs a innovative spectral energy distribution fitting code to constrain host stellar population properties—all within minutes per object
-- Information: https://github.com/anugent96/frankenblast-host (see also Nugent et al. 2026 [ads](https://ui.adsabs.harvard.edu/abs/2026ApJ...997...38N/abstract))
-- How to Install: https://github.com/anugent96/frankenblast-host 
-- Tutorials: https://github.com/anugent96/frankenblast-host/blob/main/FrankenBlast%20Tutorial.ipynb
+- **Summary**: A customized and improved version of the Blast web application. FrankenBlast associates transients to their host galaxies, performs host photometry, and runs an innovative spectral energy distribution fitting code to constrain host stellar population properties—all within minutes per object
+- **Information**: https://github.com/anugent96/frankenblast-host (see also Nugent et al. 2026 [ads](https://ui.adsabs.harvard.edu/abs/2026ApJ...997...38N/abstract))
+- **How to Install**: https://github.com/anugent96/frankenblast-host 
+- **Tutorials**: https://github.com/anugent96/frankenblast-host/blob/main/FrankenBlast%20Tutorial.ipynb
 
 ## Others
 
 ### DataLab ⭐
-- Summary: The Astro Data Lab Science Platform enables efficient exploration and analysis of the large datasets now being generated by instruments on NOIRLab and various other wide-field telescopes.
-- Homepage: https://datalab.noirlab.edu/?r=0 (Register your account here).
+- **Summary**: The Astro Data Lab Science Platform enables efficient exploration and analysis of the large datasets now being generated by instruments on NOIRLab and various other wide-field telescopes.
+- **Homepage**: https://datalab.noirlab.edu/?r=0 (Register your account here).
 
+### Lightcurves for every TNS transient in the Rubin EDP2 footprint (EDP2 photometry data needs Rubin Data Right)⭐ 
+- **Summary**: 9,330 transients reported to the Transient Name Server between Feb 2025 and Jan 2026, each inside the area Rubin observed for its second data preview. Every page overlays photometry from ZTF, public Rubin alerts, and TNS on one flux scale
+- **Homepage**: https://trivialtz.github.io/tns-edp2-explorer/
 
-### Lightcurves for every TNS transient in the Rubin EDP2 footprint (EDP2 photometry data needs data right)
-- Summary: 9,330 transients reported to the Transient Name Server between Feb 2025 and Jan 2026, each inside the area Rubin observed for its second data preview. Every page overlays photometry from ZTF, public Rubin alerts, and TNS on one flux scale
-- Homepage: https://trivialtz.github.io/tns-edp2-explorer/
-
+### SNID SAGE (SuperNova IDentification – Spectral Analysis and Guided Exploration)⭐
+- **Summary**: A Python tool for automated supernova spectral classification using cross-correlation with a library of 698 template spectra.
+- Homepage: https://fiorenst.github.io/SNID-SAGE/
+- Installation: https://fiorenst.github.io/SNID-SAGE/installation/installation/
