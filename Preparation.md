@@ -46,9 +46,9 @@ Let's try to use at least one of the packages listed below)
 
 ### The Deep Learning Identification of Galaxy Hosts in Transients (DeLight) 🚨
 - Summary: A library created by the ALeRCE broker to automatically identify host galaxies of transient candidates using multi-resolution images and a convolutional neural network
-- Information: Förster et al. 2022 ([ads] <https://ui.adsabs.harvard.edu/abs/2022AJ....164..195F/abstract> "Go to ads")
+- Information: Förster et al. 2022 ([ads](https://ui.adsabs.harvard.edu/abs/2022AJ....164..195F/abstract))
 - How to Install: https://pypi.org/project/astro-delight/
-- Tutorials: https://nbviewer.org/github/fforster/DELIGHT/blob/main/notebook/Delight_example_notebook.ipynb  or https://colab.research.google.com/github/fforster/DELIGHT/blob/main/notebook/Delight_example_notebook.ipynb
+- Tutorials: [Jupyter notebook](https://nbviewer.org/github/fforster/DELIGHT/blob/main/notebook/Delight_example_notebook.ipynb)  or https://colab.research.google.com/github/fforster/DELIGHT/blob/main/notebook/Delight_example_notebook.ipynb
 - 
 ### Pröst 🚨
 - Summary: A code for host-galaxy identification of extragalactic transients. It’s fast, probabilistic, and highly customizable.
@@ -57,11 +57,10 @@ Let's try to use at least one of the packages listed below)
 - Tutorials: https://astro-prost.readthedocs.io/en/latest/notebooks/associate.html
   
 ### Blast (optional) ⭐
-- Summary:
-- Information: 
-- How to Install:
-- Tutorials:
-- 
+- Summary: The host galaxies of astrophysical transients play a key role in our understanding of their progenitor systems and the use of Type Ia supernovae as standardizable candles for cosmology. 
+- Information: [Homepage] (https://blast.scimma.org/)
+- How to run it locally: https://blast.readthedocs.io/en/latest/developer_guide/dev_running_blast.html
+ 
 ### Frankenblast (optional) ⭐ 
 - Summary:
 - Information: 
