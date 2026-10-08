@@ -41,26 +41,28 @@ The client or package with
 - Tutorials: https://docs.lsdb.io/en/latest/tutorials.html
   
 
-## Host Galaxy Association & Characterization 
-### DeLight 
+## Host Galaxy Association & Characterization
+Let's try to use at least one of the packages listed below) 
+
+### The Deep Learning Identification of Galaxy Hosts in Transients (DeLight) 🚨
+- Summary: A library created by the ALeRCE broker to automatically identify host galaxies of transient candidates using multi-resolution images and a convolutional neural network
+- Information: Förster et al. 2022 ([ads] <https://ui.adsabs.harvard.edu/abs/2022AJ....164..195F/abstract> "Go to ads")
+- How to Install: https://pypi.org/project/astro-delight/
+- Tutorials: https://nbviewer.org/github/fforster/DELIGHT/blob/main/notebook/Delight_example_notebook.ipynb  or https://colab.research.google.com/github/fforster/DELIGHT/blob/main/notebook/Delight_example_notebook.ipynb
+- 
+### Pröst 🚨
+- Summary: A code for host-galaxy identification of extragalactic transients. It’s fast, probabilistic, and highly customizable.
+- Information: https://astro-prost.readthedocs.io/en/latest/
+- How to Install: https://astro-prost.readthedocs.io/en/latest/
+- Tutorials: https://astro-prost.readthedocs.io/en/latest/notebooks/associate.html
+  
+### Blast (optional) ⭐
 - Summary:
 - Information: 
 - How to Install:
 - Tutorials:
 - 
-### Pröst 
-- Summary:
-- Information: 
-- How to Install:
-- Tutorials:
-- 
-### Blast (optional) 
-- Summary:
-- Information: 
-- How to Install:
-- Tutorials:
-- 
-### Frankenblast (optional)
+### Frankenblast (optional) ⭐ 
 - Summary:
 - Information: 
 - How to Install:
