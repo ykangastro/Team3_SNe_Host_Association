@@ -1,4 +1,4 @@
-# NOT TRY YET OCT 8, 2026 - need to check. 
+# DO NOT TRY YET OCT 8, 2026 - need to check. 
 Workshop preparation: isolated conda environments 
 
 This guide covers the tools in [Preparation.md](https://github.com/ykangastro/Team3_SNe_Host_Matching/blob/main/Preparation.md).
