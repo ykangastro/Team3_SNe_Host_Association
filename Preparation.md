@@ -62,7 +62,7 @@ Let's try to use at least one of the packages listed below)
 - How to run it locally: https://blast.readthedocs.io/en/latest/developer_guide/dev_running_blast.html
  
 ### Frankenblast (optional) ⭐
-⚠️ You might need to download the SBI++ trained models (2.5 G) for host SED fitting in advance [Zenodo] (https://zenodo.org/records/16953206)
+⚠️ You might need to download the SBI++ trained models (2.5 G) for host SED fitting in advance [Zenodo](https://zenodo.org/records/16953206)
 - Summary: A customized and improved version of the Blast web application. FrankenBlast associates transients to their host galaxies, performs host photometry, and runs a innovative spectral energy distribution fitting code to constrain host stellar population properties—all within minutes per object
 - Information: https://github.com/anugent96/frankenblast-host (see also Nugent et al. 2026 [ads](https://ui.adsabs.harvard.edu/abs/2026ApJ...997...38N/abstract))
 - How to Install: https://github.com/anugent96/frankenblast-host 
